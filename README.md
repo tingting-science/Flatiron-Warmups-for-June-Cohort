@@ -10,6 +10,6 @@ Hello all,
      
 github username - actual name
 
-tim-christy - tim christy
+tim-christy - tim christy \n
 QED0711 - Quinn Dizon
 
