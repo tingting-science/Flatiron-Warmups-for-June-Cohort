@@ -1,4 +1,4 @@
 # 1_1_dictionaries_warmup
 
-Change maded by QED0711
+QED0711 - Quinn Dizon
 
